@@ -1,2 +1,2 @@
-# gost
-Brute-force attack G-mail
+# Gost
+brute-force attack on G-mail
