@@ -1,3 +1,3 @@
 # Gost
-Gost is the brute-force tool for G-mail Accounts
+Gost is the brute-force tools for brute force G-mail Accounts Password
 
